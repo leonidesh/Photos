@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  PhotosViewController.swift
 //  Photos
 //
 //  Created by 刘洋 on 7/6/19.
